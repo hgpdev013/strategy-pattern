@@ -1,2 +1,2 @@
 # strategy-pattern
-Atividade Eng. Software 3 - Strategy
+Atividade Eng. Software 3 - Strategy Pattern
